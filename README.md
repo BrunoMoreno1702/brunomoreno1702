@@ -106,7 +106,7 @@ Entusiasta de tecnologia, automação e um bom café, atualmente estudo Análise
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px; margin-bottom: 20px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BrunoMoreno1702&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=BrunoMoreno1702&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&cache_seconds=60" 
   />
 <p/>
 
@@ -116,7 +116,7 @@ Entusiasta de tecnologia, automação e um bom café, atualmente estudo Análise
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoreno1702&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoreno1702&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60" 
   />
 
 </p>

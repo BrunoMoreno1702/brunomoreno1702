@@ -2,7 +2,7 @@
 
 **`Programador Back-End 🤖`**
 
-Entusiasta de tecnologia, automação e um bom café, atualmente estudo Análise e Desenvolvimento de Sistemas na Faculdade Digital Descomplica e atuo como Desenvolvedor Back-End desde 2023. 
+Entusiasta de tecnologia, automação e um bom café, atualmente estudo ADS na Faculdade Descomplica e atuo como Desenvolvedor Back-End desde 2023. 
 
   <a href="https://www.linkedin.com/in/brunogmoreno/" target="_blank">
   <img 

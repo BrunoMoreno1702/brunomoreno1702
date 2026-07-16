@@ -7,7 +7,7 @@ Atuo como Desenvolvedor Back-End desde 2023, com experiência em desenvolvimento
 
 Atualmente estudo Análise e Desenvolvimento de Sistemas na Faculdade Descomplica e venho aprofundando meus estudos em Engenharia de Dados, Python, SQL, ETL, Machine Learning e ferramentas voltadas para processamento e análise de dados.
 
-Tenho buscado construir projetos práticos que conectam desenvolvimento back-end, banco de dados e dados, criando soluções que vão desde a ingestão e tratamento das informações até análise, visualização e modelos preditivos.
+Tenho buscado construir projetos práticos que conectam desenvolvimento back-end, SQL e dados, criando soluções que vão desde a ingestão e tratamento das informações até análise, visualização e modelos preditivos.
 
 ### 🤖 Linguagens e Tecnologias
 

@@ -1,81 +1,42 @@
-# Olá!!! Eu sou Bruno Moreno 🖖
+# Olá! Sou Bruno Moreno 👋
 
-**`Desenvolvedor Back-End | Python, SQL e Dados 🤖`**
+### Desenvolvedor de Software | C#/.NET, APIs REST e Vue.js
 
-Sou entusiasta de tecnologia, automação, dados e um bom café.
-Atuo como Desenvolvedor Back-End desde 2023, com experiência em desenvolvimento de sistemas, APIs, integrações, rotinas em banco de dados e automação de processos.
+Atuo como desenvolvedor backend desde 2023, com experiência profissional no desenvolvimento e na sustentação de aplicações do setor financeiro. Trabalho com C#/.NET, APIs REST, microsserviços, rotinas em banco de dados e investigação de incidentes em produção.
 
-Atualmente estudo Análise e Desenvolvimento de Sistemas na Faculdade Descomplica e venho aprofundando meus estudos em Engenharia de Dados, Python, SQL, ETL, Machine Learning e ferramentas voltadas para processamento e análise de dados.
+Também tenho prática com Vue 3, Nuxt 4 e TypeScript por meio de projetos próprios, incluindo uma aplicação responsiva integrada a uma API REST. Gosto de colaborar com QA e áreas de negócio para entender requisitos, validar soluções e entregar funcionalidades com qualidade.
 
-Tenho buscado construir projetos práticos que conectam desenvolvimento back-end, SQL e dados, criando soluções que vão desde a ingestão e tratamento das informações até análise, visualização e modelos preditivos.
+Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Descomplica e sigo aprofundando meus conhecimentos em desenvolvimento de software.
 
-### 🤖 Linguagens e Tecnologias
+## 🧰 Tecnologias e práticas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VB6](https://img.shields.io/badge/VB6-512BD4?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+- **Backend:** C#, .NET, ASP.NET Core, APIs REST, microsserviços e Worker Services
+- **Front-end:** Vue.js 3, Nuxt 4 e TypeScript — prática em projeto independente
+- **Bancos de dados:** SQL, PostgreSQL, PL/pgSQL e SQL Server
+- **Qualidade e sustentação:** testes unitários, validação de APIs, análise de logs e investigação de incidentes
+- **Ferramentas:** Git, Azure DevOps, CI/CD e Elastic
+- **Colaboração:** trabalho com QA e áreas de negócio, alinhamento de requisitos e rituais ágeis
+- **IA no desenvolvimento:** GitHub Copilot, Claude e ChatGPT como apoio à programação
 
----
+## 🚀 Projeto em destaque
 
-### 🚀 Projeto em destaque
+### Receita em Dia — buscador de receitas
 
-#### RiskFlow - Detecção de Fraude com Machine Learning
+Aplicação responsiva desenvolvida para praticar Vue.js e Nuxt. Consome a API REST DummyJSON para buscar receitas e apresentar seus detalhes.
 
-Projeto completo de dados para detecção de fraude em transações financeiras, unindo desenvolvimento back-end, Engenharia de Dados e Machine Learning supervisionado.
+- Busca por nome e filtros combináveis por categoria e culinária.
+- Páginas de detalhes com ingredientes e modo de preparo.
+- Estados de carregamento, erro, nova tentativa e resultados vazios.
+- Testes unitários com Vitest e testes end-to-end com Playwright.
 
-O projeto conta com:
+**Tecnologias:** Nuxt 4, Vue 3, TypeScript, Vitest e Playwright  
+🔗 [Ver repositório](https://github.com/BrunoMoreno1702/buscador-de-receitas)
 
-* API mock com FastAPI para geração de transações sintéticas;
-* ETL em Python;
-* armazenamento e tratamento dos dados no SQL Server;
-* treinamento de modelo supervisionado com Scikit-learn;
-* dashboard com Streamlit para relatórios e insights;
-* análise de comportamento do cliente com base em histórico recente, ticket médio e horário da transação.
+## 🎓 Formação
 
-🔗 [Ver repositório](https://github.com/BrunoMoreno1702/ML_Fraude)
+**Análise e Desenvolvimento de Sistemas** — Faculdade Descomplica  
+Em andamento; previsão de conclusão: novembro de 2027.
 
----
+## 📫 Contato
 
-### 📌 Atualmente estou estudando:
-
-* Engenharia de Dados
-* ETL e pipelines com Python
-* SQL aplicado a dados
-* Machine Learning supervisionado
-* Databricks
-* Pandas
-* Visualização de dados com Streamlit
-
----
-
-### 📊 Foco atual
-
-![Back-End](https://img.shields.io/badge/Back--End-Developer-blue?style=for-the-badge)
-![Data Engineering](https://img.shields.io/badge/Engenharia%20de%20Dados-Estudos%20e%20Projetos-orange?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projetos%20Práticos-green?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Rotina%20e%20Otimização-336791?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-ETL%20e%20Dados-3776AB?style=for-the-badge)
-
----
-
-### 📫 Contato
-
-<a href="https://www.linkedin.com/in/brunogmoreno/" target="_blank">
-  <img 
-    alt="LinkedIn" 
-    title="Visite meu perfil no LinkedIn" 
-    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" 
-    width="100"
-  />
-</a>
-
----
+[LinkedIn](https://www.linkedin.com/in/brunogmoreno/)
